@@ -41,3 +41,6 @@ Will be transformed into:
             </div>
         </div>
     </ul>
+    
+## Demo
+A demo can be found at this project's github website: http://bryansoft.github.io/knockout-foreach-lazy
